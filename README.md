@@ -91,3 +91,8 @@ Activity endpoints
 
 Booking endpoints with token-based acces 
 LINK : https://galactic-sunset-54058.postman.co/workspace/Study-Notion~0c25d401-6619-4d45-8e7f-5f769bba4f70/collection/27510228-a5f4ec47-855c-4ce0-83b6-ad7c797153dc?action=share&creator=27510228
+
+
+📌 setup
+1) npm i
+2) npm run dev
